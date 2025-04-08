@@ -27,4 +27,6 @@ If permission denied when accessing baselines, just type:
 `chmod +x baselines/<OS>/*`
 
 ## Demo
+when executing `chmod +x baselines/mac/baseline1`  
+
 ![challenge with baseline1](https://github.com/Mimi94Mimi/AI-gomoku/blob/main/gomoku_demo.gif)
